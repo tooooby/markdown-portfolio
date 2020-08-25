@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+* Dogs
+* Chemistry
+    * Organic Chemistry
+* Music
+* Camels (the animal)
